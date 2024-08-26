@@ -1,0 +1,12 @@
+pymilvus 
+
+sentence-transformers
+
+python-dotenv
+
+
+deepeval
+
+openai
+
+instructor
