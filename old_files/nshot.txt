@@ -1,31 +1,31 @@
 Example 1:
 Text: "Team A is frustrated after losing their match. The players are disappointed and morale is low."
-Sentiment Score: -0.8
+Sentiment Score: Negative
 Explanation: The mood is clearly negative, with frustration and low morale indicating a significant disappointment.
 
 Example 2:
 Text: "Team B is ecstatic after their victory. The atmosphere is joyous, and everyone is celebrating."
-Sentiment Score: 0.9
+Sentiment Score: Positive
 Explanation: The mood is very positive, with joy and celebration being the dominant emotions.
 
 Example 3:
 Text: "Team C feels neutral about their performance. They know they could have done better, but they're not too upset."
-Sentiment Score: 0.2
+Sentiment Score: Neutral
 Explanation: The mood is slightly positive, but mostly neutral, reflecting a balanced view of their performance.
 
 Example 4:
 Text: "Team D is anxious about their upcoming match. There's a lot of tension in the air, and the players are visibly nervous."
-Sentiment Score: -0.4
+Sentiment Score: Negative
 Explanation: The mood is slightly negative due to the anxiety and tension before the match.
 
 Example 5:
 Text: "Team E is highly motivated and confident. They're ready to give their best performance and are looking forward to the challenge."
-Sentiment Score: 0.7
+Sentiment Score: Positive
 Explanation: The mood is positive, characterized by motivation and confidence.
 
 Example 6:
 Text: "Team F is disappointed but determined after a tough loss. They plan to work harder and come back stronger."
-Sentiment Score: -0.3
+Sentiment Score: Negative
 Explanation: The mood is somewhat negative due to disappointment, but determination to improve adds a positive element.
 
 Now, analyze the following text:
